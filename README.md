@@ -48,6 +48,16 @@ For administrative testing, use:
 - **Username**: `admin`
 - **Password**: `admin`
 *(Note: Ensure these exist in your local backend database)*
+<img width="1272" height="2672" alt="LOGO" src="https://github.com/user-attachments/assets/892c8586-1a5e-451f-b483-f1f27d73ab44" />
+<img width="636" height="1400" alt="Login sceen" src="https://github.com/user-attachments/assets/468ad20d-3648-43dd-8468-7c5eb14b4ef5" />
+<img width="1272" height="2800" alt="Homepage" src="https://github.com/user-attachments/assets/59e12b36-27ae-4c82-94e0-bc72c5e66998" />
+<img width="1272" height="2800" alt="Campus feed" src="https://github.com/user-attachments/assets/6e6fa44d-1b6c-4d19-a41d-1efc6e24f99c" />
+<img width="1272" height="2800" alt="profile screen" src="https://github.com/user-attachments/assets/b68f519b-117b-469c-9487-287d580d9380" />
+<img width="1272" height="2800" alt="polls screen" src="https://github.com/user-attachments/assets/c5455c18-2e71-4ad5-b06f-aa25b36e9ff6" />
+<img width="1272" height="2800" alt="material screen" src="https://github.com/user-attachments/assets/20c53b0c-4cbb-4700-98ad-9a4610d1e251" />
+<img width="1272" height="2800" alt="lost found screen" src="https://github.com/user-attachments/assets/fb7855d4-211a-4473-8baa-139199074f56" />
+
+
 
 ---
 Developed as part of the SynC Campus ecosystem.
